@@ -2,7 +2,7 @@
 learning, how to use text preprocessing, to train a model.
 
 # create env
-python -m virtualenv chabot-env
+python3 -m virtualenv chabot-env
 
 # mac os | activate env
 source chatbot-env/bin/activate
